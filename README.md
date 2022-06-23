@@ -7,7 +7,7 @@ I consider myself an inquisitive person with a desire to learn about topics that
 
 I have knowledge in C/C++, Java, Assembler, Python, ADA, HTML5 and CSS, and I also have no problem learning any other type of programming language, as well as with any other type of technology and environment. In turn, I handle both Windows and Linux, and, in the latter, I also have knowledge of bash scripting.
 
-I have an upper-intermediate level in English, especially in reading and listening.
+I have an advanced level in English, especially in reading and listening.
 
 <!---
 mariobs98/mariobs98 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
